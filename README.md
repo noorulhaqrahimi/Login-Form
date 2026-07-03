@@ -2,7 +2,7 @@
 
 A modern, clean, and responsive Login Page built with **HTML** and **Tailwind CSS**.
 
-![Project Preview](./preview.png)
+![Project Preview](./login.png)
 
 ## ✨ Features
 
