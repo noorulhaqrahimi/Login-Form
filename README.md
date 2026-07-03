@@ -1,6 +1,6 @@
 # 🔐 Login Page
 
-A modern, clean, and responsive Login Page built with **HTML** and **Tailwind CSS**.
+A modern, clean Login Page built with **HTML** and **Tailwind CSS**.
 
 ![Project Preview](./login.png)
 
