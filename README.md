@@ -23,7 +23,7 @@ A modern, clean Login Page built with **HTML** and **Tailwind CSS**.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+[git clone https://github.com/your-username/your-repository.git](https://github.com/noorulhaqrahimi/Login-Form.git)
 ```
 
 2. Open the project folder.
